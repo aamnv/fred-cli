@@ -69,7 +69,7 @@ There are **~766,000** unique economic time series available via [FRED](). Lucki
 | A001RI1A225NBEA  | Gross National Product: Implicit Pr | % Chg. from Preceding Period | A       |
 | MKTGNIPHA646NWDB | Gross National Income for Philippin | Current $                    | A       |
 
-Page: 1 / 34 | next page (n), prev page (b), exit (e)
+> Page: 1 / 34 | next page (n), prev page (b), exit (e)
 
 Search provides 15 results per page and pagination using user keyboard input:
 
@@ -133,12 +133,6 @@ Finally, there's the workhorse of the CLI - the `get` method. This method fetche
 | 2020-01-01 | 21804.3 |
 | 2020-04-01 | 19616.8 |
 
-Table Info
-------------  ----------------------
-Title:        Gross National Product
-Units:        Billions of Dollars
-Frequency:    Quarterly
-
 `get` defaults to fetching five years worth of data - but users can specify a year period via the `-y` argument:
 
 **Example**:
@@ -153,12 +147,6 @@ Frequency:    Quarterly
 | 2019-10-01 | 22028.5 |
 | 2020-01-01 | 21804.3 |
 | 2020-04-01 | 19616.8 |
-
-Table Info
-------------  ----------------------
-Title:        Gross National Product
-Units:        Billions of Dollars
-Frequency:    Quarterly
 
 ## License
 
