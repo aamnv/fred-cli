@@ -2,7 +2,7 @@
 
 TL;DR: CLI app to interface with the FRED (Federal Reserve Economic Data) API.
 
-[![asciicast](https://asciinema.org/a/356315.svg)](https://asciinema.org/a/356315)
+![fred-cli demo](demo/356315.cast)
 
 > Fancy gif thanks to: [asciinema](https://asciinema.org/)
 
